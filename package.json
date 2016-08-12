@@ -1,0 +1,28 @@
+{
+  "name": "trav",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpAsus/trav.git"
+  },
+  "author": "kaseopea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpAsus/trav/issues"
+  },
+  "homepage": "https://github.com/hpAsus/trav#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "6.13.2",
+    "browser-sync": "2.14.0",
+    "gulp": "3.9.1",
+    "gulp-babel": "6.1.2"
+  },
+  "dependencies": {
+    "lodash": "4.14.2"
+  }
+}
