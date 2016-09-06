@@ -79,7 +79,7 @@ Node.prototype.setParent = function (node) {
 
 // Get parent Method
 // =============================================================================
-Node.prototype.setParent = function () {
+Node.prototype.getParent = function () {
     return this.parent;
 };
 // Add children Method
